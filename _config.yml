@@ -10,8 +10,8 @@ collections:
     output: true
 email: hackstrip@github.com
 description: A place for just some of my ramblings
-baseurl: ''
-url: ''
+baseurl: 
+url: https://hackstrip.guthub.io
 twitter_username: hackstrip
 github_username: hackstrip
 repository: hackstrip/hackstrip.github.io
